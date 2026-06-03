@@ -1,8 +1,8 @@
 
-  BROWSE-MAXXING v1.0.82
+  PRO-BROWSING v1.0.82
   The Operating System for the High-Performance Web.
 
-  The modern web is a chaotic distraction engine. Browse-Maxxing is the cure. It is a premium, high-performance productivity layer that wraps around
+  The modern web is a chaotic distraction engine. Pro-Browsing is the cure. It is a premium, high-performance productivity layer that wraps around
   your browser, transforming messy websites into a streamlined, glass-aesthetic workspace. Designed for those who treat their time as their most
   valuable asset, it combines industrial-grade automation with a luxury user experience.
 
@@ -56,7 +56,7 @@
 
   ---
 
-  Browse-Maxxing isn't just a toolkit; it’s a competitive advantage. It is built for the researcher who needs to digest a library in an afternoon, the
+  Pro-Browsing isn't just a toolkit; it’s a competitive advantage. It is built for the researcher who needs to digest a library in an afternoon, the
   developer who needs to automate the mundane, and the elite power-user who demands a "Pro" experience from the world’s most used interface.
 
   Stop Browsing. Start Command-Maxxing.
@@ -76,7 +76,7 @@
 
 4. **Install the Script:**
    Once Tampermonkey is installed, click the link below to install the script:
-   * 👉 [**Click Here to Install browse-maxing**](https://raw.githubusercontent.com/MiloSejuk/browse-maxing/main/main.user.js)
+   * 👉 [**Click Here to Install browse-maxing**](https://raw.githubusercontent.com/Milo-143/pro-browsing/main/main.user.js)
 
 5. **Confirm Installation:**
    A Tampermonkey tab will open. Click the **Install** button.
